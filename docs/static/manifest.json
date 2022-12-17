@@ -13,10 +13,10 @@
       "type": "image/png"
     }
   ],
-  "start_url": "/",
+  "start_url": "https://azitta.github.io/vuepwa",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#4DBA87",
-  "Scope": "/vuepwa",
+  "Scope": "/",
   "splash_pages": null
 }
